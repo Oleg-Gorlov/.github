@@ -50,7 +50,7 @@ My work focuses on **modernizing legacy systems**, **building intelligent cloud-
 
 ### Enterprise RAG Platform with Azure OpenAI & Microsoft 365
 - Architected an **enterprise-scale Retrieval-Augmented Generation (RAG)** platform using  
-  **Azure AI Foundry, Azure AI Search, and Azure OpenAI**
+  **Microsoft Foundry, Azure AI Search, and Azure OpenAI**
 - Indexed **500,000+ documents** from SharePoint Online & OneDrive using **Microsoft Graph API**
 - Implemented secure, delegated user permissions for context-aware retrieval
 - Built an **AI Agent** with Microsoft Bot Framework and deployed it as a **Microsoft Teams bot**
@@ -77,11 +77,10 @@ My work focuses on **modernizing legacy systems**, **building intelligent cloud-
 
 ### 🤖 AI & LLM Engineering
 **Core Platforms**
-- Azure AI Foundry  
+- Microsoft Foundry  
 - Azure OpenAI (GPT-5)  
 - Azure AI Search  
 - Azure Cognitive Services  
-- Azure AI Studio  
 - Azure Machine Learning  
 - Databricks Mosaic AI  
 
